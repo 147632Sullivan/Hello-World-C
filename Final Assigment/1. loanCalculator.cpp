@@ -41,7 +41,7 @@ bool reneLoanCalculator() {
 }
 
 int main() {
-    reneLoanCalculator();
+    sullivanLoanCalculator();
 
     return 0;
 }
